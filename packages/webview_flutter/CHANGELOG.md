@@ -1,3 +1,7 @@
+## 0.3.5+3
+
+* Allow WebView debugging on Android
+
 ## 0.3.5+2
 
 * Fix crash from `NavigationDelegate` on later versions of Android.
